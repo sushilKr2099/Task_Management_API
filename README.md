@@ -14,5 +14,5 @@ A simple .NET 8 Web API for managing tasks.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/task-management-api.git
+   git clone (https://github.com/sushilKr2099/Task_Management_API.git)
    cd task-management-api
